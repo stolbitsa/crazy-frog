@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>crazy-frog</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
-    <ru>066d209907cca2e2a7d606b308857aae80c8b2fc684b8eb75128d7bc402ab710</ru>
-    <en>5bd88677920c30e76f2c5c2cc76867304e7ce929e90b6ad6b51e60ac49bd7fe9</en>
+    <ru>f80fce8444d0f4aa51c175d3be8d57f59105f334775fee36d497492dacfcb25b</ru>
+    <en>49cba95d2557e299e8bdbf4c3d37304b1d38f3c8d5de190152cc51f4456a6210</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
