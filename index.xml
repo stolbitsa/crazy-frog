@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>crazy-frog</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>f80fce8444d0f4aa51c175d3be8d57f59105f334775fee36d497492dacfcb25b</ru>
@@ -26,23 +26,19 @@
     </notes>
   </exercise>
   <exercise number="2">
-    <scale>major</scale>
-    <bpm>80</bpm>
-    <lowestNote>1</lowestNote>
-    <tonalities>1</tonalities>
+    <scale>minor</scale>
+    <bpm>140</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="6-crazy-frog_0.mp4" size="1178162" type="video/mp4" volume="0.4">5af94a78ce55411cfd488f1cf535db348f1c82468426a79b4414e7e191edc547</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
-      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="18" ticks="0" durationTicks="73" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="94" durationTicks="70" ppq="96" velocity="0.906"/>
+      <note number="3" values="18" ticks="167" durationTicks="34" ppq="96" velocity="0.787"/>
+      <note number="4" values="18" ticks="216" durationTicks="20" ppq="96" velocity="0.772"/>
+      <note number="5" values="68" ticks="241" durationTicks="40" ppq="96" velocity="0.748"/>
+      <note number="6" values="58" ticks="289" durationTicks="41" ppq="96" velocity="0.858"/>
+      <note number="7" values="38" ticks="337" durationTicks="37" ppq="96" velocity="0.748"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -66,6 +62,26 @@
     </notes>
   </exercise>
   <exercise number="4">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <notes>
+      <note number="1" values="1" ticks="0" durationTicks="95" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="96" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="3" values="1" ticks="192" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="4" values="1" ticks="288" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="5" values="1" ticks="384" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="6" values="1" ticks="480" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="7" values="1" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="8" values="1" ticks="672" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="9" values="1" ticks="768" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="10" values="1" ticks="864" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="11" values="1" ticks="960" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="12" values="1" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
