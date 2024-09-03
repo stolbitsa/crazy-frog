@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>crazy-frog</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>f80fce8444d0f4aa51c175d3be8d57f59105f334775fee36d497492dacfcb25b</ru>
@@ -60,14 +60,14 @@
     <tonalities>3</tonalities>
     <video name="6-crazy-frog_4.mp4" size="1843845" type="video/mp4" volume="0.305">ce0bb6bd9ed2c14d1a627752d13d75ced3935745f01b595f9031d8a2f47420ef</video>
     <notes>
-      <note number="1" values="18" ticks="3" durationTicks="18" ppq="96" velocity="0.843"/>
-      <note number="2" values="7" ticks="24" durationTicks="46" ppq="96" velocity="0.913"/>
-      <note number="3" values="7" ticks="71" durationTicks="23" ppq="96" velocity="0.913"/>
-      <note number="4" values="5" ticks="97" durationTicks="47" ppq="96" velocity="0.913"/>
-      <note number="5" values="28" ticks="146" durationTicks="45" ppq="96" velocity="0.913"/>
-      <note number="6" values="18" ticks="194" durationTicks="142" ppq="96" velocity="0.913"/>
-      <note number="7" values="18" ticks="432" durationTicks="83" ppq="96" velocity="0.913"/>
-      <note number="8" values="18" ticks="529" durationTicks="85" ppq="96" velocity="0.913"/>
+      <note number="1" values="18" ticks="36" durationTicks="18" ppq="96" velocity="0.843"/>
+      <note number="2" values="7" ticks="59" durationTicks="46" ppq="96" velocity="0.913"/>
+      <note number="3" values="7" ticks="108" durationTicks="23" ppq="96" velocity="0.913"/>
+      <note number="4" values="5" ticks="132" durationTicks="47" ppq="96" velocity="0.913"/>
+      <note number="5" values="28" ticks="181" durationTicks="45" ppq="96" velocity="0.913"/>
+      <note number="6" values="18" ticks="229" durationTicks="142" ppq="96" velocity="0.913"/>
+      <note number="7" values="18" ticks="467" durationTicks="83" ppq="96" velocity="0.913"/>
+      <note number="8" values="18" ticks="564" durationTicks="85" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="5">
