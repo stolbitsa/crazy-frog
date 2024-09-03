@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>crazy-frog</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
     <ru>f80fce8444d0f4aa51c175d3be8d57f59105f334775fee36d497492dacfcb25b</ru>
@@ -103,7 +103,7 @@
     <bpm>140</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>3</tonalities>
-    <video name="6-crazy-frog_3.mp4" size="505685" type="video/mp4" volume="0.291">6546992d7a4e24a919f24ebee5c6df842f643c22f3c1826682c54b3eba8c8a75</video>
+    <video name="6-crazy-frog_6.mp4" size="1945894" type="video/mp4" volume="0.317">032fad116e165f4b194182899933af24b1a561d86d63cf455b9873dae9ed6717</video>
     <notes>
       <note number="1" values="18" ticks="54" durationTicks="41" ppq="96" velocity="0.843"/>
       <note number="2" values="58" ticks="108" durationTicks="44" ppq="96" velocity="0.913"/>
